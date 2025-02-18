@@ -1,6 +1,6 @@
 # Hazrat Ali 
 
-# Software Engineer ||  Student Of Computer Science & Engineering 
+# Software Engineer || Programmer
 
 # Portfolio Live Site : https://hazrat-ali-portfolio.vercel.app
 
