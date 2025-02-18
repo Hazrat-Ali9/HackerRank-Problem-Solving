@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Fair Rations
 import math
 import os
 import random
