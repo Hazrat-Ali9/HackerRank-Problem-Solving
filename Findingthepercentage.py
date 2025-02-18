@@ -1,4 +1,4 @@
-# Finding The Percentage
+
 
 if __name__ == '__main__':
     n = int(input())  
@@ -12,4 +12,5 @@ if __name__ == '__main__':
     query_name = input()  
     average_score = sum(student_record[query_name]) / len(student_record[query_name])
     print("{:.2f}".format(average_score))
+    # Finding The Percentage
 
