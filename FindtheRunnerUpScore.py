@@ -1,4 +1,4 @@
-# Find The Runner Up Score Program : 
+
 if __name__ == '__main__':
     
     n = int(input())
@@ -14,3 +14,4 @@ if __name__ == '__main__':
     runner_up_score = scores[1]
     
     print(runner_up_score)
+    # Find The Runner Up Score Program : 
