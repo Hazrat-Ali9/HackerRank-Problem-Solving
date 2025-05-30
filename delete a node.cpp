@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-// Delete a node
+
 using namespace std;
 
 class SinglyLinkedListNode {
