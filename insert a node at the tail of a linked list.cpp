@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+// Insert a node at the tail of linked list
 using namespace std;
 
 class SinglyLinkedListNode
